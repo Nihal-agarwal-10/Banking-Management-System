@@ -1,4 +1,4 @@
-# Banking Management System Basic
+# Banking Management System 
 
 A console-based Banking Management System developed using C++ using Object-Oriented Programming (OOP) and File Handling concepts.
 
